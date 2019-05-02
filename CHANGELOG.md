@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 - Access to dashboard
+- Download PDF of dashboard
 - Email dashboards to end users
 - Impact analysis dashboard
 
