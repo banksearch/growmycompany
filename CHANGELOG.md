@@ -8,8 +8,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 - Access to dashboard
-- Download PDF of dashboard
-- Email dashboards to end users
+- Remove 'dashboard' menu item
+- Return & pre-fill Company data in 'Company' form from Companies House
+
+## 2019-05-09
+
+### Added
+
+- Link to download PDF dashboard of survey response
+- Process to email Metabase dashboards to end users
 - Impact analysis dashboard
 
 ## 2019-04-11
