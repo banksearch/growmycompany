@@ -8,8 +8,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 - Access to dashboard
-- Remove 'dashboard' menu item
 - Return & pre-fill Company data in 'Company' form from Companies House
+
+## 2019-05-10
+
+### Added
+
+- Remove 'dashboard' from sidebar menu item
+- Add pop-up to end of survey confirming data quality (GUI only)
 
 ## 2019-05-09
 
