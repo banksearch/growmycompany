@@ -14,8 +14,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Remove 'dashboard' from sidebar menu item
 - Add pop-up to end of survey confirming data quality (GUI only)
+
+### Removed
+
+- Remove 'dashboard' from sidebar menu item
 
 ## 2019-05-09
 
