@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Access to dashboard
 - Return & pre-fill Company data in 'Company' form from Companies House
+- Remove redundant button at end of Wizard
 
 ## 2019-05-10
 
