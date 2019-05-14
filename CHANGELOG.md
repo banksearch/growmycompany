@@ -9,6 +9,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Access to dashboard
 - Return & pre-fill Company data in 'Company' form from Companies House
+
+## 2019-05-14
+
+### Changed
+
+- Changed response text returned by DELETE Company endpoint when a company is not deleted
+
+### Removed
+
 - Remove redundant button at end of Wizard
 
 ## 2019-05-10
