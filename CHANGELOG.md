@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Fix POST /Surveys/CreateOrEdit API endpoint Overwrite:TRUE returns error
+- Change 'help' URL
+- Change Survey data confirmation message to appear after data validation
+
 ## 2019-05-29
 
 ### Added
