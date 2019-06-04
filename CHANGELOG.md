@@ -7,17 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Fix POST /Surveys/CreateOrEdit API endpoint Overwrite:TRUE returns error
-- Change 'help' URL
-- Change Survey data confirmation message to appear after data validation
+## [1.3.1] - 2019-06-04
 
-## 2019-05-29
+### Changed
+
+- Changed 'help' URL
+- Changed Survey data confirmation message to appear after data validation
+
+### Fixed
+
+- Fixed POST /Surveys/CreateOrEdit API endpoint Overwrite:TRUE returned error
+
+## [1.3.0] - 2019-05-29
 
 ### Added
 
 - Return & pre-fill Company data in 'Company' form from Companies House
 
-## 2019-05-14
+## [1.2.4] - 2019-05-14
 
 ### Changed
 
@@ -27,7 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Remove redundant button at end of Wizard
 
-## 2019-05-10
+## [1.2.3] - 2019-05-10
 
 ### Added
 
@@ -37,7 +44,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Remove 'dashboard' from sidebar menu item
 
-## 2019-05-09
+## [1.2.2] - 2019-05-09
 
 ### Added
 
@@ -45,38 +52,38 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Process to email Metabase dashboards to end users
 - Impact analysis dashboard
 
-## 2019-04-11
+## [1.2.1] - 2019-04-11
 
 ### Changed
 
 - Dashboard opens in a new tab
 
-## 2019-04-10
+## [1.2.0] - 2019-04-10
 
 ### Added
 
 - Multi-tenant dashboard features
 
-## 2019-04-02
+## [1.1.3] - 2019-04-02
 
 ### Fixed
 
 - Dashboard app setting error
 
-## 2019-03-28
+## [1.1.2] - 2019-03-28
 
 ### Added
 
 - Access to dashboard via Survey page
 - Dashboard shown when Survey is submitted
 
-## 2019-03-19
+## [1.1.1] - 2019-03-19
 
 ### Changed
 
 - Changed half a dozen SIC codes which were missing a 0 & validated the SIC code list
 
-## 2018-11-22
+## [1.1.0] - 2018-11-22
 
 ### Added
 
@@ -86,14 +93,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Landing page now the Wizard
 
-## 2018-10-31
+## [1.0.6] - 2018-10-31
 
 ### Fixed
 
 - Fix pagination rendering
 - Fix dropdown rendering
 
-## 2018-10-18
+## [1.0.5] - 2018-10-18
 
 ### Added
 
@@ -111,7 +118,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fix validation fails on client, but survey is submitted successfully
 
-## 2018-10-12
+## [1.0.4] - 2018-10-12
 
 ### Changed
 
@@ -126,19 +133,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Removed second search box from 'Industry' & 'Industry Group' page
 
-## 2018-05-18
+## [1.0.3] - 2018-05-18
 
 ### Added
 
 - Tooltips in both 'Company' and 'Survey'
 
-## 2018-05-17
+## [1.0.2] - 2018-05-17
 
 ### Fixed
 
 - Fix sorting via API
 
-## 2018-05-16
+## [1.0.1] - 2018-05-16
 
 ### Fixed
 
