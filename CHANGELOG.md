@@ -7,8 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Change Company service to store longitude & latitude for maps in Metabase
-- Fix GET /Companies/GetCompanyForEdit API endpoint to return SIC code of business
+## [1.3.2] - 2019-06-06
+
+### Changed
+
+- Changed Company service to store longitude & latitude for maps in Metabase
+
+### Fixed
+
+- Fixed GET /Companies/GetCompanyForEdit API endpoint to return SIC code of business
 
 ## [1.3.1] - 2019-06-04
 
