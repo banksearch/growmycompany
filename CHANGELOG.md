@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Add additional client-side validation to Survey
+- Fix Survey GUI validation error message repeats
+- Fix Search not returning results
+
 ## [1.3.2] - 2019-06-06
 
 ### Changed
