@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.3.5] - 2019-07-12
+
+### Fixed
+
+- Fixed Legal Status - Companies House 'company type' mapping
+
 ## [1.3.4] - 2019-06-18
 
 ### Changed
