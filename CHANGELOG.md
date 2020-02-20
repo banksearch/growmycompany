@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.3.6] - 2020-02-12
+
+### Added
+
+- Added feature to send dashboard PDFs to Evolutive CRM
+
 ## [1.3.5] - 2019-07-12
 
 ### Fixed
