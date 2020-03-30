@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [1.3.9] - 2020-03-30
+
+### Added
+
+- Added feature to send notifications to admin when a new survey has been submitted
+
+### Fixed
+
+- Fixed dashboard sending for edited surveys
+
 ## [1.3.8] - 2020-02-21
 
 ### Fixed
