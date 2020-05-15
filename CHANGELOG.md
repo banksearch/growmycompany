@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [1.3.10] - 2020-05-15
+
+### Changed
+
+- Email validation for notifications
+- CRM Settings form - autocomplete
+
 ## [1.3.9] - 2020-03-30
 
 ### Added
