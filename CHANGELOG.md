@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+##[1.3.11] - 2020-05-19
+
+### Changed
+
+- Survey - ordering showing most recent surveys first
+
 ## [1.3.10] - 2020-05-15
 
 ### Changed
