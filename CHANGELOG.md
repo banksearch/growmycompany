@@ -7,7 +7,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Email summary report
+
 ## [Released]
+
+## [1.3.14] - 2021-05-04
+
+### Fixed
+
+- Fixed sorting by 'roles' bug
+
+## [1.3.13] - 2021-04-28
+
+### Added
+
+- Added tool to identify unsent emails/pdf to CRM and resend them
+- Email debugging feature
+
+## [1.3.12] - 2021-04-01
+
+### Fixed
+
+- Fixed transfer to CRM bug
 
 ## [1.3.11] - 2020-05-19
 
