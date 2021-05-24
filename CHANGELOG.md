@@ -11,6 +11,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [1.3.15] - 2021-05-
+
+### Changed
+
+- Re-send activation email URL text on home page
+- Re-send activation description text
+- Re-send activation error message text
+
 ## [1.3.14] - 2021-05-04
 
 ### Fixed
