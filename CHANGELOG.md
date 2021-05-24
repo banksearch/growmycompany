@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Re-send activation email URL text on home page
 - Re-send activation description text
 - Re-send activation error message text
+- Companies survey text - clarify recipient 'on behalf of' 
 
 ## [1.3.14] - 2021-05-04
 
