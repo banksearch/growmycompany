@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 - Email summary report
+- Impact analysis white container
+- Impact analysis enhancements
+- Error text changes
+- 
 
 ## [Released]
 
