@@ -7,9 +7,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Impact analysis white container
-- Impact analysis enhancements
-
 ## [Released]
 
 ## [1.3.16] - 2021-07-15
@@ -22,6 +19,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Email for notifications refactored code
 - Companies survey error text - clarify text box
+- Impact analysis white container now surrounds entire dashboard
+- Impact analysis enhancements
 
 ## [1.3.15] - 2021-05-14
 
