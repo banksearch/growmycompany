@@ -9,6 +9,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [1.3.17] - 2021-12-03
+
+### Added
+
+- Columns to Companies table for bulk uploads (1366, 1390)
+- Automated tests in CI/CD (1430)
+
+### Changed
+
+- Workflow order for CRM survey sending tool (1349)
+- Removed unnecessary endpoint from API documentation (1410)
+- Password validation code failed - Graciously handle error message (1440)
+
+### Fixed
+
+- Fixed leading 0 sending to CRM (1284)
+- Companies House API endpoint definition changed (1439)
+
 ## [1.3.16] - 2021-07-15
 
 ### Added
